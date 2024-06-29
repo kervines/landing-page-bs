@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+* {
+}
+
+.logo {
+  font-family: 'Playfair Display', serif;
+  font-weight: 600;
+}
+
+.box-shadow {
+  box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.2);
+}
+
+.carousel-item img {
+  object-fit: cover;
+  height: 300px;
+}
